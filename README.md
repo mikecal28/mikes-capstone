@@ -17,12 +17,16 @@ IMPORTANT:
 TO BEGIN:
 
 1. Run file 'main_best.py':
+
     a. This file is the most bug free of my main files.
+    
     b. If logging in as a manager, only the options '[1] View Tables' and '[2] Edit Records' work on the main menu.
+    
     c. If logging in as a user, all options should work.
 
 2. You can try running 'main_only_loads_users.py' and 'main_latest_trial.py' to see additional work done,
 However, they do have bugs.
+
     a. If logging in as a manager, only the options '[1] View Tables' and '[2] Edit Records' work on the main menu.
     b. If logging in as a user, all options should work.
 
