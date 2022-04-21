@@ -2,15 +2,19 @@
 
 BEFORE RUNNING ANYTHING:
     Note that when entering in a password to login, the cursor will not move. 
+    
         -This is a feature I added in order to provide a more secure login experience.
+        
     Also note: The program should allow for any input at any time as long as the desired option is currently displayed on the screen.
 
 
 HELPFUL TIPS:
     The best user_id to check for logging in as a user is user 7.
+    
         -This user has the most assessment_results.
         
 IMPORTANT:
+
     -the provided login_info.png file will show you user/managers with the info you'll need to login. 
     I took the screenshot before encrypting these dummy accounts' passwords.
 
