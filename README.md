@@ -17,6 +17,8 @@ IMPORTANT:
 
     -the provided login_info.png file will show you user/managers with the info you'll need to login. 
     I took the screenshot before encrypting these dummy accounts' passwords.
+    
+    -The 'main menu' return option doesn't always work. If it doesn't, try logging out and back in again.
 
 TO BEGIN:
 
