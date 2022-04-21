@@ -9,9 +9,10 @@ BEFORE RUNNING ANYTHING:
 HELPFUL TIPS:
     The best user_id to check for logging in as a user is user 7.
         -This user has the most assessment_results.
-    IMPORTANT:
-        -the provided login_info.png file will show you user/managers with the info you'll need to login. 
-        I took the screenshot before encrypting these dummy accounts' passwords.
+        
+IMPORTANT:
+    -the provided login_info.png file will show you user/managers with the info you'll need to login. 
+    I took the screenshot before encrypting these dummy accounts' passwords.
 
 TO BEGIN:
 
