@@ -403,17 +403,15 @@ def new_input(input_string=''):
 
 def login_email_input():
     MOVE_TO_LOGIN_EMAIL_INPUT()
-    # user_input = input("")
-    # return user_input
-    return 'toni.robertson@example.com'
+    user_input = input("")
+    return user_input
 
 def login_password_input():
     MOVE_TO_LOGIN_PASSWORD_INPUT()
     print('\u2588')
     print("\x1B[?25l")
-    # user_input = getpass("")
-    # return user_input
-    return 'mustang'
+    user_input = getpass("")
+    return user_input
 
 
 
