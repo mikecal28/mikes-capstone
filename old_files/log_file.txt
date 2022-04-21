@@ -1,0 +1,25 @@
+Login Successful!
+
+You have manager-level privileges.
+
+[3J[H[2J
+Choose From The Following
+[1] View Users                      [3] View Reports                    [5] Add Records                     [7] Delete Records 
+[2] View Assessments by User        [4] Search Records                  [6] Edit Records                    [8] Export/Import
+
+[9] Quit
+>>> [3J[H[2J
+user_id  first_name  last_name  phone           email                       date_created         hire_date            user_type  
+---------------------------------------------------------------------------------------------------------------------------------
+1        Bonnie      King       (130)-847-0506  bonnie.king@example.com     2022-04-12 08:50:15  2022-04-12 08:50:15  user       
+2        Andrea      Bennett    (785)-829-6542  andrea.bennett@example.com  2022-04-12 08:50:15  2022-04-12 08:50:15  user       
+3        Mattie      Shaw       (040)-254-1923  mattie.shaw@example.com     2022-04-12 08:50:16  2022-04-12 08:50:16  user       
+4        Claire      Romero     (462)-694-1843  claire.romero@example.com   2022-04-12 08:50:16  2022-04-12 08:50:16  user       
+5        Harry       Gonzalez   (480)-349-8206  harry.gonzalez@example.com  2022-04-12 08:50:16  2022-04-12 08:50:16  user       
+6        Felix       Brown      (275)-898-8132  felix.brown@example.com     2022-04-12 08:50:16  2022-04-12 08:50:16  user       
+7        Betty       Cole       (556)-482-4202  dora.cole@example.com       2022-04-12 08:50:17  2022-04-12 08:50:17  user       
+8        Terry       Kuhn       (905)-631-2372  terry.kuhn@example.com      2022-04-12 08:50:17  2022-04-12 08:50:17  user       
+9        Toni        Robertson  (767)-481-0080  toni.robertson@example.com  2022-04-12 08:50:39  2022-04-12 08:50:39  manager    
+10       Emma        Armstrong  (017)-677-4828  emma.armstrong@example.com  2022-04-12 08:50:40  2022-04-12 08:50:40  manager    
+11       Tamara      Hunt       (813)-169-5641  tamara.hunt@example.com     2022-04-16 13:14:47  2022-04-16 13:14:47  user       
+---------------------------------------------------------------------------------------------------------------------------------
