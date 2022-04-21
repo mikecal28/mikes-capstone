@@ -28,6 +28,7 @@ TO BEGIN:
 However, they do have bugs.
 
     a. If logging in as a manager, only the options '[1] View Tables' and '[2] Edit Records' work on the main menu.
+    
     b. If logging in as a user, all options should work.
 
 
